@@ -1,7 +1,7 @@
 # B-Rally
 little racing game for Gamebuino
 
-<img src="https://github.com/scmar/B-Rally/blob/master/Bitmaps/slide_race.gif">Screenshot</img>
+Screenshot: <img src="Bitmaps/slide_race.gif"></img>
 
 uses ADXL345 if available.
 
